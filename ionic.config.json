@@ -1,0 +1,7 @@
+{
+  "name": "w3w-sandbox-ang17",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
